@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="US - SMITHSONIAN HD [EAST] ?" tvg-logo="http://logourl.net/COBRALOGO/USA/ENTERTAINMENTS/SMITHSONIANEAST.png" group-title="US| ENTERTAINMENT",US - SMITHSONIAN HD [EAST] ?
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/116362
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="US - SMITHSONIAN HD [WEST]" tvg-logo="http://logourl.net/COBRALOGO/USA/ENTERTAINMENTS/SMITHSONIAN.png" group-title="US| ENTERTAINMENT",US - SMITHSONIAN HD [WEST]
+http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/116363
